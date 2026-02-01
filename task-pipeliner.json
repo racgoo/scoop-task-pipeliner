@@ -4,7 +4,7 @@
   "homepage": "https://task-pipeliner.racgoo.com",
   "license": "MIT",
   "url": "https://github.com/racgoo/task-pipeliner/releases/download/v0.2.3/tp-win-x64.exe",
-  "hash": "e46f9f7ad1037e02985e461c650b94aacbd9d45c61424475fffce36a63b419ca",
+  "hash": "c834da925375d19662586ef2598cd3cb48ed8e8cadfbce1b19030e7c2af8c2a0",
   "bin": [["tp-win-x64.exe", "tp"]],
   "checkver": {
     "github": "racgoo/task-pipeliner"
