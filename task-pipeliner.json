@@ -1,10 +1,10 @@
 {
-  "version": "0.3.8",
+  "version": "0.3.9",
   "description": "A task pipeline runner with condition-based workflow execution",
   "homepage": "https://task-pipeliner.racgoo.com",
   "license": "MIT",
-  "url": "https://github.com/racgoo/task-pipeliner/releases/download/v0.3.8/tp-win-x64.exe",
-  "hash": "24d3071322423c2c1aa49d2e54a96380c31d9500ba41677c9813ebeb76a5c91c",
+  "url": "https://github.com/racgoo/task-pipeliner/releases/download/v0.3.9/tp-win-x64.exe",
+  "hash": "77fd8d57f983130def8f2b6e8b543f14694c01049da4904361be4fa4491d9e83",
   "bin": [["tp-win-x64.exe", "tp"]],
   "checkver": {
     "github": "racgoo/task-pipeliner"
